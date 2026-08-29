@@ -119,11 +119,11 @@ Azure               ████░░░░░░  40%
 
 I'm always interested in connecting with fellow developers, learning from the community, and discussing software engineering.
 
-**LinkedIn:** [Add your LinkedIn URL]
+**LinkedIn:** https://www.linkedin.com/in/pala-gurayya/
 
-**Portfolio:** [Add your Portfolio URL]
+**Portfolio:** https://guru223344.github.io/Gurayya_Portfolio/
 
-**Email:** [Add your professional email]
+**Email:** palagurayya@gmail.com
 
 ---
 
